@@ -1,0 +1,6 @@
+category,total_spending,average_spending,number_of_expenses,highest_expens,lowest_expense
+Bills,1900,950.0,2,1000,900
+Entertainment,450,450.0,1,450,450
+Food,1300,260.0,5,350,180
+Shopping,1400,700.0,2,800,600
+Transport,270,135.0,2,150,120

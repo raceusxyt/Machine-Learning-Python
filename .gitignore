@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Pandas practice files
+pandas/Boss_expense.csv
+pandas/expense_analyzer.py
+pandas/practice.ipynb
+pandas/expenses.csv
+pandas/expenses_cleaned.csv
