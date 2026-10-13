@@ -1,0 +1,13 @@
+date,category,amount,spending_level,category_average,difference_from_category_average
+2026-01-02,Food,250,Medium,260.0,-10.0
+2026-01-03,Transport,120,Low,135.0,-15.0
+2026-01-03,Food,300,Medium,260.0,40.0
+2026-01-05,Shopping,800,High,700.0,100.0
+2026-01-06,Bills,1000,High,950.0,50.0
+2026-01-08,Food,180,Low,260.0,-80.0
+2026-01-10,Transport,150,Low,135.0,15.0
+2026-01-12,Food,350,Medium,260.0,90.0
+2026-01-13,Entertainment,450,Medium,450.0,0.0
+2026-01-15,Shopping,600,High,700.0,-100.0
+2026-01-17,Bills,900,High,950.0,-50.0
+2026-01-18,Food,220,Medium,260.0,-40.0
