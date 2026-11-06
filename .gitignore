@@ -11,3 +11,6 @@ pandas/expense_analyzer.py
 pandas/practice.ipynb
 pandas/expenses.csv
 pandas/expenses_cleaned.csv
+
+# Unwanted files
+Structure.txt
